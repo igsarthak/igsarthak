@@ -1,6 +1,6 @@
-## Hii there ! SARTHAK this side......👋
+# Hii there ! SARTHAK this side......👋
 
-# About Me:
+## About Me:
 Myself Sarthak. I'm currently persuing B.Tech in CSE (Specialization in AI&ML). <br>
 I'm also 
 - an enthusiast in coding domain, who's learning daily and seeking knowledge from wherever possible. 
